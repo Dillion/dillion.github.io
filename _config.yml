@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://Dillion.github.io
-title: My Octopress Blog
+url: http://www.dilliontan.com
+title: Dillion Tan
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Dillion Tan
 simple_search: https://www.google.com/search
 description:
 
